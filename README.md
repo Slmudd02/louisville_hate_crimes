@@ -1,6 +1,6 @@
 # Louisville Hate Crimes
 ### By Shala Mudd
-![Black lives matter movement!](OIP.jpg)
+![Black lives matter movement!](Breonna_Taylor.jpg)
 
 ## About
 
