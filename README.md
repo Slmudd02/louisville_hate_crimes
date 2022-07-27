@@ -1,6 +1,6 @@
 # Louisville Hate Crimes
 ### By Shala Mudd
-! [Black lives matter movement] (C:/Users/shala/jupyter/lousiville_hate_crimes/Breonna.jpg "Protest")
+! [Black lives matter movement] (C:/Users/shala/data_1/Breonna.jpg "Protest")
 
 ## About
 
