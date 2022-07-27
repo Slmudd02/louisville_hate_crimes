@@ -17,6 +17,6 @@ All data was sourced from data.louisvilleky.gov
 
 
 The following packages will be required to run the program: 
-    -pandas 
-    -numpy
-    -matplotlib.pyplot
+*pandas 
+*numpy
+*matplotlib.pyplot
