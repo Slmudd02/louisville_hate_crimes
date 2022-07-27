@@ -1,6 +1,6 @@
 # Louisville Hate Crimes
 ### By Shala Mudd
-! [Black lives matter movement!](C:\Users\shala\jupyter\louisville_hate_crimes\OIP.jpg)
+! [Black lives matter movement!](OIP.jpg)
 
 ## About
 
