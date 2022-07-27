@@ -32,3 +32,10 @@ The following packages will be required to run the program:
     - Use at least 5 different built-in Python functions to find out something about your data
 - Category 4:
     - Make 2 basic plots with matplotlib, seaborn, or any other kind of visualization library that you think looks interesting.
+
+
+![Pie Chart!](Pie_chart.png)
+
+
+
+![Bar graph!](Bar_graph.png)
