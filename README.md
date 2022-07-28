@@ -4,7 +4,7 @@
 
 ## About
 
-This project will be about Louisville Kentucky hate crimes. Specifically against African Americans, and  how they raised after the murder of Breonna Taylor. Breonna Taylor was a 26 year old African American  killed by the Louisville police department on March 13th 2020. There were "Black Lives Matter" protest that took place after the news spread about this incident. Very emotional, and scary time in this city.
+This project will be about Louisville Kentucky hate crimes. Specifically against African Americans, and  how the hate crime rates  raised after the murder of Breonna Taylor. Breonna Taylor was a 26 year old African American  killed by the Louisville police department on March 13th 2020. There were "Black Lives Matter" protests that took place after the news spread about this incident. It was a very emotional, and scary time in this city.
 
 ## Source
 
@@ -16,8 +16,9 @@ All data was sourced from data.louisvilleky.gov
 2. Clone my repository 
 3. Create a virtual environment (optional)
 4. From within that directory pip install the requirements.txt file by running "pip install -r requirements.txt".
-
-
+5. My code will be in the following files :
+    - louisville_hate_crimes.ipynb
+    - bargraph.ipynb
 The following packages will be required to run the program: 
 * pandas 
 * numpy
