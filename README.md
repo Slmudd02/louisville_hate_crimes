@@ -30,13 +30,15 @@ The following packages will be required to run the program:
 - Feature 1:
     - Read in data from a local csv, excel file, json, or any other file type.
 - Feature 2:
-    - Use built-in pandas or numpy functions
+    - Use built-in pandas or numpy functions.
 - Feature 3:
-    - Use at least 5 different built-in Python functions to find out something about your data
+    - Use at least 5 different built-in Python functions to find out something about your data.
 - Feature 4:
     - Make 2 basic plots with matplotlib, seaborn, or any other kind of visualization library that you think looks interesting.
 - Feature 5:
     - Write markdown cells in Jupyter explaining your thought process and code.
+- Feature 6:
+    - Make custom functions for your data.
 
 
 ![Pie Chart!](Pie_chart.png)
