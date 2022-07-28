@@ -26,14 +26,16 @@ The following packages will be required to run the program:
 * matplotlib.pyplot
 
 ## Code Louisville Requirements Met
-- Category 1:
+- Feature 1:
     - Read in data from a local csv, excel file, json, or any other file type.
-- Category 2:
+- Feature 2:
     - Use built-in pandas or numpy functions
-- Category 3:
+- Feature 3:
     - Use at least 5 different built-in Python functions to find out something about your data
-- Category 4:
+- Feature 4:
     - Make 2 basic plots with matplotlib, seaborn, or any other kind of visualization library that you think looks interesting.
+- Feature 5:
+    - Write markdown cells in Jupyter explaining your thought process and code.
 
 
 ![Pie Chart!](Pie_chart.png)
