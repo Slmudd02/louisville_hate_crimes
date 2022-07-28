@@ -24,6 +24,7 @@ The following packages will be required to run the program:
 * pandas 
 * numpy
 * matplotlib.pyplot
+* Jupyter Notebook
 
 ## Code Louisville Requirements Met
 - Feature 1:
@@ -43,3 +44,7 @@ The following packages will be required to run the program:
 
 
 ![Bar graph!](Bar_graph.png)
+
+## Conclusion 
+
+After analyzing this data I learned that African Americans in Louisville are more likely to be a victim of a hate crime than any other demographic. I thought that the awareness of how African Americans are treated especially by law enforcement that hate crime rates would  decrease. That obviously was not the case. In fact, the rates tripled in 2020.
