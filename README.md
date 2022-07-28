@@ -19,6 +19,7 @@ All data was sourced from data.louisvilleky.gov
 5. My code will be in the following files :
     - louisville_hate_crimes.ipynb
     - bargraph.ipynb
+
 The following packages will be required to run the program: 
 * pandas 
 * numpy
