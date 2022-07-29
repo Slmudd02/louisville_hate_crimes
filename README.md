@@ -32,7 +32,7 @@ The following packages will be required to run the program:
 - Feature 2:
     - Use built-in pandas or numpy functions.
 - Feature 3:
-    - Use at least 5 different built-in Python functions to find out something about your data.
+    - Analyze your data. Use at least 5 different built-in Python functions to find out something about your data.
 - Feature 4:
     - Make 2 basic plots with matplotlib, seaborn, or any other kind of visualization library that you think looks interesting.
 - Feature 5:
