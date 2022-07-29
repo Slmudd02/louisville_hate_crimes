@@ -49,4 +49,4 @@ The following packages will be required to run the program:
 
 ## Conclusion 
 
-After analyzing this data I learned that African Americans in Louisville are more likely to be a victim of a hate crime than any other demographic. I thought that the awareness of how African Americans are treated especially by law enforcement that hate crime rates would  decrease. That obviously was not the case. In fact, the rates tripled in 2020.
+After analyzing this data I learned that African Americans in Louisville are more likely to be a victim of a hate crime than any other demographic. I thought that the awareness of how African Americans are treated especially by law enforcement that hate crime rates would  decrease. That obviously was not the case. In fact, the rates quadrupled in 2020.
